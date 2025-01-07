@@ -25,3 +25,5 @@ This repository contains the OSS reports for the Pentaho+ releases. Please consu
 [Release 10.2.0.1](pentaho-legacy/PDIOpenLineagePlugin_OSS_Licenses_v10.2.1.0.pdf)
 
 ## Pentaho Data Catalog
+
+[Release 10.2.0.0](pentaho-catalog/Pentaho_Data_Catalog_OSS_Licenses_V10.2.pdf)
