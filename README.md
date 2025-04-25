@@ -20,9 +20,13 @@ This repository contains the OSS reports for the Pentaho+ releases. Please consu
 
 [Release 10.2.0.0](pentaho-legacy/PentahoSuite_OSS_Licenses_v10.2.0.0.pdf)
 
+[Release 10.2.0.2](pentaho-legacy/PentahoSuite_OSS_Licenses_v10.2.0.2.pdf)
+
 ## Pentaho Data Lineage Plugin
 
 [Release 10.2.0.1](pentaho-legacy/PDIOpenLineagePlugin_OSS_Licenses_v10.2.1.0.pdf)
+
+[Release 0.2.0](pentaho-legacy/PDI-OpenLineage-Plugin_OSS_Licenses_V0.2.0.pdf)
 
 ## Pentaho Data Catalog
 
